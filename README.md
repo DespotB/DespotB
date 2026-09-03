@@ -24,11 +24,15 @@ Building the operating system for real-estate finance at arcneo. Everything else
 - 💎 **[smart-contract-gemstones](https://github.com/DespotB/smart-contract-gemstones)** - ERC-721 with Chainlink VRF for randomized mint order
 - 🤖 **[flippy-bot](https://github.com/DespotB/flippy-bot)** - Discord bot for NFT collections: sales, listings, floor price
 - 🧊 **[blender-generative-script](https://github.com/DespotB/blender-generative-script)** - Blender script that combines models into generated variants
+- 😈 **[Diablito](https://diablito.vercel.app)** - truth-or-dare party game as a PWA, pass the phone around (React, no backend)
+- 🏴‍☠️ **One Piece BR** - battle-royale prototype in Godot, private while it grows
+- 🪐 **Mecatol Duel** - two-player Twilight Imperium distillate for the browser, in the lab
 
 ## Tools I swear by
 
 - 🦸 **[superpowers](https://github.com/obra/superpowers)** - skills that make Claude Code plan before it codes
-- 🦞 **[OpenClaw](https://openclaw.ai)** - the AI that actually does things
+- 🎙️ **[Superwhisper](https://superwhisper.com)** - dictation that keeps up with thinking out loud
+- 🖥️ **[iTerm2](https://iterm2.com)** - the terminal every agent session lives in
 - 🔥 **[firecrawl](https://github.com/firecrawl/firecrawl)** - the web, as markdown
 - 🔊 **[game-sounds](https://github.com/citedy/claude-plugins)** - Claude Code plugin, sound effects for tool calls
 - 🕹️ **[moonlight](https://github.com/moonlight-stream/moonlight-qt)** + **[Sunshine](https://github.com/LizardByte/Sunshine)** - game streaming done right
