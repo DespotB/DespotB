@@ -1,6 +1,6 @@
 # Hi, I'm Despot 👋
 
-📍 **Berlin** | 🚀 **Co-founder [arcneo](https://arcneo.de)** | 🤖 **Technologist: AI, Space & Robotics**
+📍 **Berlin** | 🚀 **Co-founder [arcneo](https://arcneo.de)** | 🤖 **Technologist**
 
 Building the operating system for real-estate finance at arcneo. Everything else is agents, terminals and the occasional rocket.
 
