@@ -24,8 +24,8 @@ Building the operating system for real-estate finance at arcneo. Everything else
 - 💎 **[smart-contract-gemstones](https://github.com/DespotB/smart-contract-gemstones)** - ERC-721 with Chainlink VRF for randomized mint order
 - 🤖 **[flippy-bot](https://github.com/DespotB/flippy-bot)** - Discord bot for NFT collections: sales, listings, floor price
 - 🧊 **[blender-generative-script](https://github.com/DespotB/blender-generative-script)** - Blender script that combines models into generated variants
-- 😈 **[Diablito](https://diablito.vercel.app)** - truth-or-dare party game as a PWA, pass the phone around (React, no backend)
-- 🪐 **Mecatol Duel** - two-player Twilight Imperium distillate for the browser, in the lab
+- 😈 **[diablito](https://github.com/DespotB/diablito)** - truth-or-dare party game as a PWA, pass the phone around ([play](https://diablito.vercel.app))
+- 🪐 **[mecatol-duel](https://github.com/DespotB/mecatol-duel)** - two-player Twilight Imperium distillate for the browser, in the lab
 
 ## Tools I swear by
 
