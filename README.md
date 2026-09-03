@@ -25,7 +25,6 @@ Building the operating system for real-estate finance at arcneo. Everything else
 - 🤖 **[flippy-bot](https://github.com/DespotB/flippy-bot)** - Discord bot for NFT collections: sales, listings, floor price
 - 🧊 **[blender-generative-script](https://github.com/DespotB/blender-generative-script)** - Blender script that combines models into generated variants
 - 😈 **[Diablito](https://diablito.vercel.app)** - truth-or-dare party game as a PWA, pass the phone around (React, no backend)
-- 🏴‍☠️ **One Piece BR** - battle-royale prototype in Godot, private while it grows
 - 🪐 **Mecatol Duel** - two-player Twilight Imperium distillate for the browser, in the lab
 
 ## Tools I swear by
