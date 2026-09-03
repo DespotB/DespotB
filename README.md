@@ -30,6 +30,7 @@ Building the operating system for real-estate finance at arcneo. Everything else
 
 ## Tools I swear by
 
+- 🤖 **[Claude Code](https://github.com/anthropics/claude-code)** - the agent in the terminal that runs my day, from vault to deploys
 - 🦸 **[superpowers](https://github.com/obra/superpowers)** - skills that make Claude Code plan before it codes
 - 🎙️ **[Superwhisper](https://superwhisper.com)** - dictation that keeps up with thinking out loud
 - 🖥️ **[iTerm2](https://iterm2.com)** - the terminal every agent session lives in
