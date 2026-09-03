@@ -16,6 +16,8 @@ Building the operating system for real-estate finance at arcneo. Everything else
 ## Building
 
 - 🏗️ **[arcneo](https://arcneo.de)** - real-estate financing, rebuilt as software. Co-founder.
+- 🧩 **[arcOS](https://arcos.arcneo.de)** - the operating system for real-estate finance, the product we build at arcneo
+- 📱 **[arcneo Web App](https://app.arcneo.de)** - the investor platform: onboarding, projects, portfolio (Next.js + Supabase)
 - 📖 **[Claude Code Setup Guide](https://despotbitschnau.com/claude-guide/)** - how I run a daily-use agent as a personal assistant (EN/DE)
 
 ## Projects
